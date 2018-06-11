@@ -13,6 +13,7 @@ public class First {
 		abc.add("D");
 		
 		System.out.println("Here"+ abc);
+		System.out.println("Here"+ abc);
 		
 		abc.add(0, "AA");
 		
